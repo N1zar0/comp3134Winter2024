@@ -1,0 +1,126 @@
+APPLE INC
+Domain:
+apple.com
+Registrar:
+Nom-iq Ltd. dba COM LAUDE
+Registered On:
+1987-02-19
+Expires On:
+2025-02-20
+Updated On:
+2023-08-28
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+a.ns.apple.com
+b.ns.apple.com
+c.ns.apple.com
+d.ns.apple.com
+
+
+MICROSOFT
+Domain:
+microsoft.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+1991-05-02
+Expires On:
+2025-05-03
+Updated On:
+2023-08-18
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns1-39.azure-dns.com
+ns2-39.azure-dns.net
+ns3-39.azure-dns.org
+ns4-39.azure-dns.info
+
+
+FACEBOOK
+Domain:
+facebook.com
+Registrar:
+RegistrarSafe, LLC
+Registered On:
+1997-03-29
+Expires On:
+2032-03-30
+Updated On:
+2023-04-26
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+
+AMAZON:
+Domain:
+amazon.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+1994-11-01
+Expires On:
+2024-10-30
+Updated On:
+2023-05-16
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns1.amzndns.co.uk
+ns1.amzndns.com
+ns1.amzndns.net
+ns1.amzndns.org
+ns2.amzndns.co.uk
+ns2.amzndns.com
+ns2.amzndns.net
+ns2.amzndns.org
+
+
+NVIDIA:
+Domain:
+nvidia.com
+Registrar:
+SafeNames Ltd.
+Registered On:
+1993-04-20
+Expires On:
+2024-04-21
+Updated On:
+2022-05-01
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+dns1.p09.nsone.net
+dns2.p09.nsone.net
+ns5.dnsmadeeasy.com
+ns6.dnsmadeeasy.com
+ns7.dnsmadeeasy.com

@@ -1,0 +1,21 @@
+Definition of Server Port:
+Web server ports are the logical endpoints of a network connection that is used to exchange information between a web server and a web client. These ports are assigned a unique number to identify them separately
+
+Server Port Range:
+The server port range refers to the range of port numbers available for use by various services or applications on a server. In the Internet Assigned Numbers Authority (IANA) system, ports are divided into three ranges: well-known ports (0-1023), registered ports (1024-49151), and dynamic or private ports (49152-65535). The well-known ports are typically reserved for widely used services and applications.
+
+Number of Bits Representing Server Port Range:
+The server port range is represented by 16 bits, as the port numbers are 16-bit unsigned integers. This means there are a total of 2^16 (or 65,536) possible port numbers in the entire range.
+
+10 Common Server Ports:
+
+HTTP (Hypertext Transfer Protocol): Port 80
+HTTPS (Hypertext Transfer Protocol Secure): Port 443
+FTP (File Transfer Protocol): Port 21
+SSH (Secure Shell): Port 22
+SMTP (Simple Mail Transfer Protocol): Port 25
+DNS (Domain Name System): Port 53
+POP3 (Post Office Protocol 3): Port 110
+IMAP (Internet Message Access Protocol): Port 143
+HTTPS (Alternative): Port 8443
+MySQL Database: Port 3306

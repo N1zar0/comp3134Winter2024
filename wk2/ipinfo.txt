@@ -1,0 +1,30 @@
+Wikipedia:
+IP Address: 198.35.26.96 
+Country: United States
+Region: California
+City: San Francisco 
+
+Twitter:
+IP Address: 104.244.42.193
+Country: United States
+Region: California
+City: San Francisco 
+
+Twitch:
+IP Address: 151.101.194.167
+Country: United States
+Region: California
+City: San Francisco 
+
+Xbox live:
+IP Address: 20.76.201.171
+Country: Netherlands
+Region: Noord-Holland
+City: Amsterdam
+
+Zoom:
+IP Address: 170.114.52.2
+Country: United States
+Region: California
+City: San Jose
+

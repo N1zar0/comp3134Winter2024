@@ -1,0 +1,4 @@
+ping 147.182.149.84
+PING 147.182.149.84 (147.182.149.84) 56(84) bytes of data.
+64 bytes from 147.182.149.84: icmp_seq=1 ttl=64 time=0.033 ms
+s
